@@ -1,5 +1,5 @@
 # DynamicJmsListenerSpringBootJboss
-# test dynamic jmsListenr spring boot in wildfly actveMQ
+# test dynamic JmsListener spring boot in wildfly actveMQ
 
 1. git clone https://github.com/lorenzolince/docker.git
 2. cd docker/ORACLE-DATABASE
