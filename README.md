@@ -11,4 +11,4 @@
 8. git clone https://github.com/lorenzolince/DynamicJmsListenerSpringBootJboss.git
 9. cd DynamicJmsListenerSpringBootJboss
 10. mvn clean install spring-boot:run
-11. to access  http://localhost:8088/liquibase/swagger-ui.html
+11. to access  http://localhost:8088/dynamicjms/swagger-ui.html
