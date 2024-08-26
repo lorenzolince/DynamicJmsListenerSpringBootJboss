@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <version.swagger>2.7.0</version.swagger>
+        <version.swagger>2.10.0</version.swagger>
         <version.oracle.jdbc>12.2.0.1</version.oracle.jdbc>
         <version.wildfly>10.0.0.Final</version.wildfly>
     </properties>
